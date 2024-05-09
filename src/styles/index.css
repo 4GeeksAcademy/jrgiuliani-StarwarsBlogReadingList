@@ -1,3 +1,23 @@
 /* 
     General Styles
+
 */
+.navbar img {
+    width: 50px;
+    height: 50px;
+} 
+
+.align-right {
+    float: right;
+}
+
+.propiedades {
+    margin: 15px;
+    text-align: center;
+    color: rgb(88, 14, 29);
+    font-weight: bold;
+}
+
+
+
+
